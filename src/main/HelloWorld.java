@@ -1,4 +1,4 @@
-package leetcode_top75;
+package main;
 
 public class HelloWorld {
 
